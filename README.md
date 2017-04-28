@@ -5,7 +5,6 @@
 ## Примеры
 
 [Кастомные чекбоксы](./pages/custom-checkbox.md)
-
 [Табы](./pages/tabs.md)
 
 ## Todo
