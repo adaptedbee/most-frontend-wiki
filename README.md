@@ -4,8 +4,11 @@
 
 ## Примеры
 
-[Кастомные чекбоксы](./pages/custom-checkbox.md)\s\s
+[Кастомные чекбоксы](./pages/custom-checkbox.md)
+
 [Табы](./pages/tabs.md)
+
+[Хак для Magnific Popup](./pages/magnific-popup.md)
 
 ## Todo
 
