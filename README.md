@@ -4,8 +4,8 @@
 
 ## Примеры
 
-[./pages/custom-checkbox.md](Кастомные чекбоксы)
-[./pages/tabs.md](Табы)
+[Кастомные чекбоксы](./pages/custom-checkbox.md)
+[Табы](./pages/tabs.md)
 
 ## Todo
 
