@@ -4,8 +4,7 @@
 
 ## Примеры
 
-[Кастомные чекбоксы](./pages/custom-checkbox.md)
-
+[Кастомные чекбоксы](./pages/custom-checkbox.md)<space><space>
 [Табы](./pages/tabs.md)
 
 ## Todo
